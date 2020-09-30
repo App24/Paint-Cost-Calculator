@@ -1,0 +1,11 @@
+Press Start to start the program
+Then press the Get Area button and start entering the height and length of the walls
+When finished, select the paint type to paint the walls
+The Luxury paint type costs £1.75 per square meter
+The Standard paint type costs £1 per square meter
+The Economy paint type costs £0.45 per square meter
+Choose whether you want undercoat or not
+Undercoat costs £0.50 per square meter
+Press the finish button to get the price you will have to pay, 
+including the price with the undercoat and the price without the undercoat and 
+the price of the undercoat
